@@ -1,0 +1,7 @@
+anthropic==1.15.0
+fastapi==0.143.3
+uvicorn==0.54.0
+python-dotenv==1.2.4
+httpx==0.28.1
+model2vec==0.10.0
+numpy==2.5.4
